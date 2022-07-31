@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Constanza M. Vidal Bustamante"
-  avatar           : "profile.png"
+  avatar           : "constanzavidal_square"
   bio              : "Psychology Ph.D. Student at Harvard University"
   location         : "Cambridge, MA, US"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ConyVidal"
+  github           : "ConyVidal"
   google_plus      :
   keybase          :
   instagram        :
