@@ -16,7 +16,7 @@ My doctoral research is leveraging this *deep phenotyping* approach to precisely
 
 This innovative methodology is already yielding critical insights into how emotions and behavior fluctuate in relation to stress and the possible implications for health and wellbeing. Below you will find a few representative journal publications, posters with visual summaries, and general-audience features highlighting this research.
 
-*[For a list of all my publications, check my [Google Scholar profile](https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en). You can also find my [CV here](https://conyvidal.github.io/files/VidalBustamante_CV_20220827.pdf)]*.    
+*[For a full list of publications, check my [Google Scholar profile](https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en). You can find my [CV here](https://conyvidal.github.io/files/VidalBustamante_CV_20220827.pdf)]*.    
 
 
 ### [Fluctuations in Behavior and Affect in College Students Measured Using Deep Phenotyping](https://doi.org/10.1038/s41598-022-05331-7)
