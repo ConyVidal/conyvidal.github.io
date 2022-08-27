@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: "https://drive.google.com/drive/u/0/folders/1BR4cV9M_XpzvYhrvYW4ncazhvR26ulBT"
 
   #- title: "Guide"
   #  url: /markdown/
