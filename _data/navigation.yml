@@ -5,15 +5,15 @@ main:
 
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en"
-    
+
   #- title: "Teaching"
   #  url: /teaching/
 
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  #- title: "Tech Ethics/Policy"
+  #  url: /policy/
 
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Community"
+    url: /community/
 
   - title: "CV"
     url: "https://conyvidal.github.io/files/VidalBustamante_CV_20220827.pdf"
