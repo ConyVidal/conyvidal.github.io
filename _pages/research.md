@@ -12,11 +12,11 @@ As we move through our daily lives, we must face a wide variety of stressors---f
 
 For the first time, advances in mobile computing and the increasing ubiquity of wearable technology are making it possible to capture the multiple dimensions of daily life with great precision and near continuously. Seizing on this exciting opportunity, I have partnered with engineers, biostatisticians, and clinicians to translate the millions of continuous datapoints afforded by smartphones and wearables into year-long snapshots of an individual’s life. 
 
-My doctoral research is leveraging this *deep phenotyping* approach to precisely characterize stress and its effects on various life domains that individuals typically must report retrospectively at the clinician’s office---from sleep patterns to daily activities, as well as how these effects go on to shape individuals’ long-term clinical outcomes. This work promises to not only advance our understanding of the impact of stress on individuals' health, but also to inform much-needed personalized and timely approaches to care.
+My doctoral research is leveraging this *deep phenotyping* approach to precisely characterize stress and its effects on various life domains that individuals typically must report retrospectively at the clinician’s office---from sleep patterns to daily activities, as well as how these effects go on to shape individuals’ long-term clinical outcomes. This work promises to not only advance our understanding of the impact of stress on individuals' health, but also to inform much-needed personalized and timely care.
 
 This innovative methodology is already yielding critical insights into how emotions and behavior fluctuate in relation to stress and the possible implications for health and wellbeing. Below you will find a few representative journal publications, posters with visual summaries, and general-audience features highlighting this research.
 
-For a list of all my publications, check my [Google Scholar profile](https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en). You can also find my [CV here](https://conyvidal.github.io/files/VidalBustamante_CV_20220827.pdf).    
+*[For a list of all my publications, check my [Google Scholar profile](https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en). You can also find my [CV here](https://conyvidal.github.io/files/VidalBustamante_CV_20220827.pdf)]*.    
 
 
 ### [Fluctuations in Behavior and Affect in College Students Measured Using Deep Phenotyping](https://doi.org/10.1038/s41598-022-05331-7)
