@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: "https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en"
-
   - title: "Research"
     url: /research/
 
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en"
+    
   #- title: "Teaching"
   #  url: /teaching/
 
@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
 
   - title: "CV"
-    url: "https://conyvidal.github.io//files/VidalBustamante_CV_20220827.pdf"
+    url: "https://conyvidal.github.io/files/VidalBustamante_CV_20220827.pdf"
 
   #- title: "Guide"
   #  url: /markdown/
