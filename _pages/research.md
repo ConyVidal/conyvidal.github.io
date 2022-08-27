@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Using mobile technology to uncover person-specific, dynamic effects of stress on emotions, behavior, and health"
+title: "Harnessing mobile technology to uncover the person-specific, dynamic effects of stress on emotions, behavior, and health"
 excerpt: "Research"
 author_profile: true
 redirect_from: 
