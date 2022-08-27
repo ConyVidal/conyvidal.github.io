@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Psychology department at Harvard University, under the joint supervision of Professors [Randy Buckner](https://cnl.rc.fas.harvard.edu/) and [Leah Somerville](https://andl.wjh.harvard.edu/). My doctoral research leverages mobile and wearable technology and intensive longitudinal designs to study changes in individuals' emotional states and behaviors like sleep and socializing following experiences of stress. Ultimately, I seek to understand how people’s response to various stressors relates to their short- and long-term health and wellbeing, and how this knowledge might inform individualized approaches to care.
+I am a Ph.D. student in the Psychology department at Harvard University, under the joint supervision of Professors [Randy Buckner](https://cnl.rc.fas.harvard.edu/) and [Leah Somerville](https://andl.wjh.harvard.edu/). My doctoral research leverages mobile and wearable technology and intensive longitudinal designs to study life stress and its effects on individuals' emotional states and behaviors like sleep and socializing. Ultimately, I seek to understand how people’s responses to various stressors relates to their short- and long-term health and wellbeing, and how this knowledge might inform individualized and timely approaches to care.
 
 I have taught R-based introductory statistics classes and currently serve as the [Statistics Consultant](https://undergrad.psychology.fas.harvard.edu/thesis-advising) for honors thesis students in the Harvard Psychology department, and as Concentration Advisor for Harvard undergraduates in Psychology. Additionally, I have an interest in science and technology policy and occasionally write about related topics.
 
