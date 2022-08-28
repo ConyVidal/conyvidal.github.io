@@ -9,14 +9,11 @@ main:
   - title: "Teaching/Advising"
     url: /teaching/
 
-  #- title: "Tech Ethics/Policy"
-  #  url: /policy/
+  - title: "Tech Ethics/Policy"
+    url: /policy/
 
   - title: "Community"
     url: /community/
 
   - title: "CV"
     url: "https://conyvidal.github.io/files/VidalBustamante_CV_20220827.pdf"
-
-  #- title: "Guide"
-  #  url: /markdown/
