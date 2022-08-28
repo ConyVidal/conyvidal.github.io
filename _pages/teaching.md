@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-Over the past few years, I have been fortunate to teach statistics and/or advise several dozen undergraduates in psychology and beyond. I am passionate about mentoring, and strive to support each one of my students as learners, researchers, and human beings, and to communicate complex content and skills while catering to their individual needs and interests whenever possible.                     
+I have been fortunate to teach and advise several dozen undergraduates in psychology and other fields. I am passionate about mentoring, and strive to support each one of my students as learners, researchers, and human beings, as well as to guide them through complex content and skills while paying attention to their individual needs and interests.                     
 
 *[Coming Soon: Resources for Mentoring Undergraduates, compiled with help from members of the Harvard Psychology department, will be added soon under the ["Community"](https://conyvidal.github.io/community) tab of this website]*           
 
