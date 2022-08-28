@@ -14,7 +14,7 @@ I have been fortunate to teach and advise several dozen undergraduates in psycho
 ### Statistics Consultant for Honors Thesis Students in Psychology
 * Fall 2022 - Spring 2023; Harvard University       
 * Provide one-on-one research and statistics consulting to 21 students, including the selection of appropriate statistical analyses, troubleshooting R code, discussing theory and methodology, and writing up methods and results clearly and thoroughly      
-* Develop contents, write code in R, and teach group workshops on data management, visualization, and various statistical analysis techniques 
+* Develop contents, write code in R, and teach periodic group workshops on data management, visualization, and various statistical analysis techniques 
 
 ### Teaching Fellow for PSY 1900: Introduction to Statistics for the Behavioral Sciences
 * Fall 2021, Spring 2022; Harvard University        
