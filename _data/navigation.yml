@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en"
 
-  #- title: "Teaching"
-  #  url: /teaching/
+  - title: "Teaching/Advising"
+    url: /teaching/
 
   #- title: "Tech Ethics/Policy"
   #  url: /policy/
