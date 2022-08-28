@@ -7,6 +7,9 @@ redirect_from:
   - /policy.html
 ---
 
+My interest in science and technology policy is twofold. Most directly relevant to my Ph.D. research, I'm interested in understanding the impact of emerging digital technologies on individuals and society, and how these tools can be harnessed to support health and wellbeing while mitigating harms. At a broader level, I'm interested in understanding the forces shaping the bigger science and technology enterprise: who gets to decide what scientific questions and technological innovations should be pursued? To what extent could (and should) we form cross-sectoral collaborations for the prioritization of public-interest research and development? What is the role of academics in all this? 
+
+## Emerging Digital Technologies: Potential, Social Impacts, and Regulation
 
 ### [Should Machines Be Allowed to “Read Our Minds”? Uses and Regulation of Biometric Techniques that Attempt to Infer Mental States](https://doi.org/10.38105/spr.qy2iibrk72)
 Published in *MIT Science Policy Review*, 2022 ([DOI](https://doi.org/10.38105/spr.qy2iibrk72), [pdf](https://conyvidal.github.io/files/))       
@@ -21,15 +24,17 @@ Social media content recommendation algorithms are receiving increased scrutiny 
 harms---from amplification of misinformation and harmful content to heightened mental health concerns. This primer provides a policy-oriented overview of social media recommendation algorithms, including how these algorithms work, relevant public purpose considerations, and the current regulatory landscape, with a focus on the United States.
 
 
-### [Toward a Demand-Driven, Collaborative Data Agenda for Adolescent Mental Health](https://doi.org/10.1016/j.jadohealth.2022.05.027)
-Published in *Journal of Adolescent Health*, 2022 ([DOI](https://doi.org/10.1016/j.jadohealth.2022.05.027), [pdf](https://conyvidal.github.io/files/Verhulst_etal_JAH_2022.pdf))        
-
-This work, conducted with NYU's [The Governance Lab](https://thegovlab.org/), UNICEF, and youth experts, introduces a collaborative methodology for the development of a strategic research agenda for adolescent mental health. This agenda aims to guide future data sharing and collection efforts to meet the most pressing data needs of key stakeholders working to promote adolescent mental health worldwide.
-
-
 ### [The Ethics of Digitalisation – From Principles to Practices](https://www.hiig.de/en/project/the-ethics-of-digitalisation/)
 Published by the *Global Network of Internet and Society Centers*, 2022 ([link](https://www.hiig.de/en/project/the-ethics-of-digitalisation/), [pdf](https://conyvidal.github.io/files/BKC_EthicsDigitilisation_2022.pdf))
 
 In 2021, I participated in the research sprint "Digital Self-Determination: Towards Autonomy and Agency in the Digital Age,” hosted by the Digital Asia Hub and Berkman Klein Center for Internet & Society at Harvard University. A cohort of 25 students and experts from a wide variety of disciplines and countries came together to explore and discuss the social, cultural, ethical, and technical challenges surrounding the increasing digitization and datafication of most aspects of society, including media, work, education, and health care. This sprint was part of a two-year "Ethics of Digitalisation" project by the Global Network of Internet & Society Centers, whose main outputs are highighted in this document.
+
+
+## Strategic, Collaborative Research and Development in the Public Interest
+
+### [Toward a Demand-Driven, Collaborative Data Agenda for Adolescent Mental Health](https://doi.org/10.1016/j.jadohealth.2022.05.027)
+Published in *Journal of Adolescent Health*, 2022 ([DOI](https://doi.org/10.1016/j.jadohealth.2022.05.027), [pdf](https://conyvidal.github.io/files/Verhulst_etal_JAH_2022.pdf))        
+
+This work, conducted with NYU's [The Governance Lab](https://thegovlab.org/), UNICEF, and youth experts, introduces a collaborative methodology for the development of a strategic research agenda for adolescent mental health. This agenda aims to guide future data sharing and collection efforts to meet the most pressing data needs of key stakeholders working to promote adolescent mental health worldwide.
 
 
