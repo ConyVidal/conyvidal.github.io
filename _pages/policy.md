@@ -7,7 +7,7 @@ redirect_from:
   - /policy.html
 ---
 
-My interest in science and technology policy is twofold. Most directly relevant to my Ph.D. research, I'm interested in understanding the impact of emerging digital technologies on individuals and society, and how these tools can be harnessed to support health and wellbeing while mitigating harms. At a broader level, I'm interested in understanding the forces shaping the bigger science and technology enterprise: who gets to decide what scientific questions and technological innovations should be pursued? To what extent could (and should) we form cross-sectoral collaborations for the prioritization of public-interest research and development? What is the role of academics in all this? 
+My interest in science and technology policy is twofold. Most directly relevant to my Ph.D. research, I'm interested in understanding the impact of emerging digital technologies on individuals and society, and how these tools can be harnessed to support health and wellbeing while mitigating harms. At a broader level, I'm interested in understanding the forces shaping the bigger science and technology enterprise: who gets to decide what scientific questions and technological innovations will be pursued? To what extent could (and should) we form cross-sectoral collaborations for the prioritization of public-interest research and development? What is the role of academics in these matters? 
 
 I've been exploring and writing about these topics through various activities at Harvard and beyond, some of which I share below.
 
