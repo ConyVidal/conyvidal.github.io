@@ -20,7 +20,7 @@ Biometric data, such as facial expressions, voice, and heart rate, are increasin
 
 
 ### [Technology Primers for Policymakers: Social Media Recommendation Algorithms]()
-Written as Student Researcher for Harvard Kennedy School's *Belfer Center for Science and International Affairs - Technology and Public Purpose Project*, 2022 ([link](), [pdf](https://conyvidal.github.io/files/VidalBustamante_SMRA_TAPP_2022.pdf))    
+Written as Student Researcher for Harvard Kennedy School's *Belfer Center for Science and International Affairs - Technology and Public Purpose Project*, 2022 ([link](https://www.belfercenter.org/publication/technology-primer-social-media-recommendation-algorithms), [pdf](https://conyvidal.github.io/files/VidalBustamante_SMRA_TAPP_2022.pdf))    
 
 Social media content recommendation algorithms are receiving increased scrutiny due to their large influence over users’ online and offline experiences and mounting evidence of these algorithms’ downstream
 harms---from amplification of misinformation and harmful content to heightened mental health concerns. This primer provides a policy-oriented overview of social media recommendation algorithms, including how these algorithms work, relevant public purpose considerations, and the current regulatory landscape, with a focus on the United States.
