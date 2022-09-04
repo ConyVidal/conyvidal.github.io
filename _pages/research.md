@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-As we move through our daily lives, we must face a wide variety of stressors---from physical to social to work-related, each of which can influence our emotions and behavior in dynamic and idiosyncratic ways. The well-established relationship between stress and diverse pathologies shows that our response to the challenges of daily life can have a substantial impact on our long-term health and wellbeing. Yet so far we have been unable to characterize how the “wear-and-tear” of daily stressors on emotions and behavior unfolds dynamically over days, weeks, and months to subsequently predict clinical outcomes. 
+As we move through our daily lives, we must face a wide variety of stressors---from physical to social to work-related, each of which can influence our emotions and behavior in dynamic and idiosyncratic ways. The well-established link between stress and diverse pathologies shows that our response to the challenges of daily life can have a substantial impact on our long-term health and wellbeing. Yet so far we have been unable to characterize how the “wear-and-tear” of daily stressors on emotions and behavior unfolds dynamically over days, weeks, and months to subsequently predict clinical outcomes. 
 
 For the first time, advances in mobile computing and the increasing ubiquity of wearable technology are making it possible to capture the multiple dimensions of daily life with great precision and near continuously. Seizing on this exciting opportunity, I have partnered with engineers, biostatisticians, and clinicians to translate the millions of continuous datapoints afforded by smartphones and wearables into year-long snapshots of an individual’s life. 
 
