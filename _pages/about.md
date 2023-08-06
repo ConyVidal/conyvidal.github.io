@@ -12,6 +12,6 @@ I am a Ph.D. student in the Psychology department at Harvard University, under t
 
 My [doctoral research](https://conyvidal.github.io/research/) leverages mobile technology and intensive longitudinal designs to study life stress and its effects on emotions and behaviors like sleep and socializing. Ultimately, I seek to understand how people’s responses to various stressors relates to their short- and long-term health and wellbeing, and how this knowledge might inform individualized and timely approaches to care.
 
-I have ample experience (and a passion for) [teaching statistics and advising undergraduates in psychology](https://conyvidal.github.io/teaching). Additionally, I'm interested in [science and technology policy](https://conyvidal.github.io/policy) and occasionally write about related topics.           
+I have several years of experience [teaching statistics and advising undergraduates in psychology](https://conyvidal.github.io/teaching). Additionally, I'm passionate about [science and technology policy](https://conyvidal.github.io/policy) and occasionally write about related topics.           
 
 I grew up in Chile, lived in Singapore for two years on a [United World College](https://www.uwc.org/) scholarship, and moved to the United States for college (Harvard College '16). Prior to starting my Ph.D., I worked in Harvard Professor Leah Somerville’s lab managing the Human Connectome Project in Development, a NIH-funded multimodal brain study charting age-related changes in brain network properties in children, adolescents, and adults. 
