@@ -1,70 +1,54 @@
-{% include base_path %}
-
-{% if paginator.total_pages > 1 %}
-<nav class="pagination">
-  <ul>
-    {% comment %} Link for previous page {% endcomment %}
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <li><a href="{{ base_path }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
-      {% else %}
-        <li><a href="{{ base_path }}/page{{ paginator.previous_page }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
-      {% endif %}
-    {% else %}
-      <li><a href="#" class="disabled"><span aria-hidden="true">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span></a></li>
-    {% endif %}
-
-    {% comment %} First page {% endcomment %}
-    {% if paginator.page == 1 %}
-      <li><a href="#" class="disabled current">1</a></li>
-    {% else %}
-      <li><a href="{{ base_path }}/">1</a></li>
-    {% endif %}
-
-    {% assign page_start = 2 %}
-    {% if paginator.page > 4 %}
-      {% assign page_start = paginator.page | minus: 2 %}
-      {% comment %} Ellipsis for truncated links {% endcomment %}
-      <li><a href="#" class="disabled">&hellip;</a></li>
-    {% endif %}
-
-    {% assign page_end = paginator.total_pages | minus: 1 %}
-    {% assign pages_to_end = paginator.total_pages | minus: paginator.page %}
-    {% if pages_to_end > 4 %}
-      {% assign page_end = paginator.page | plus: 2 %}
-    {% endif %}
-
-    {% for index in (page_start..page_end) %}
-      {% if index == paginator.page %}
-        <li><a href="{{ base_path }}/page{{ index }}/" class="disabled current">{{ index }}</a></li>
-      {% else %}
-        {% comment %} Distance from current page and this link {% endcomment %}
-        {% assign dist = paginator.page | minus: index %}
-        {% if dist < 0 %}
-          {% comment %} Distance must be a positive value {% endcomment %}
-          {% assign dist = 0 | minus: dist %}
-        {% endif %}
-        <li><a href="{{ base_path }}/page{{ index }}/">{{ index }}</a></li>
-      {% endif %}
-    {% endfor %}
-
-    {% comment %} Ellipsis for truncated links {% endcomment %}
-    {% if pages_to_end > 3 %}
-      <li><a href="#" class="disabled">&hellip;</a></li>
-    {% endif %}
-
-    {% if paginator.page == paginator.total_pages %}
-      <li><a href="#" class="disabled current">{{ paginator.page }}</a></li>
-    {% else %}
-      <li><a href="{{ base_path }}/page{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
-    {% endif %}
-
-    {% comment %} Link next page {% endcomment %}
-    {% if paginator.next_page %}
-      <li><a href="{{ base_path }}/page{{ paginator.next_page }}/">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a></li>
-    {% else %}
-      <li><a href="#" class="disabled"><span aria-hidden="true">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</span></a></li>
-    {% endif %}
-  </ul>
-</nav>
-{% endif %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9}
+    span.s1 {font-kerning: none}
+    span.s2 {-webkit-text-stroke: 0px #000000}
+    span.s3 {text-decoration: underline ; font-kerning: none}
+    span.s4 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% include base_path %} {% if paginator.total_pages &gt; 1 %}</span></p>
+<ul class="ul1">
+  <li class="li1"><span class="s2"></span><span class="s1">{% comment %} Link for previous page {% endcomment %} {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}</span></li>
+  <li class="li2"><span class="s2"><a href="file:///Users/conyvidal/Documents/Website/conyvidal/conyvidal.github.io/_includes/%7B%7B%20base_path%20%7D%7D/"><span class="s3">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% else %}</span></li>
+  <li class="li2"><span class="s2"><a href="file:///Users/conyvidal/Documents/Website/conyvidal/conyvidal.github.io/_includes/%7B%7B%20base_path%20%7D%7D/page%7B%7B%20paginator.previous_page%20%7D%7D/"><span class="s3">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% else %}</span></li>
+  <li class="li2"><span class="s2"></span><span class="s3">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% comment %} First page {% endcomment %} {% if paginator.page == 1 %}</span></li>
+  <li class="li3"><span class="s4">1</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% else %}</span></li>
+  <li class="li3"><a href="file:///Users/conyvidal/Documents/Website/conyvidal/conyvidal.github.io/_includes/%7B%7B%20base_path%20%7D%7D/"><span class="s4">1</span></a></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% assign page_start = 2 %} {% if paginator.page &gt; 4 %} {% assign page_start = paginator.page | minus: 2 %} {% comment %} Ellipsis for truncated links {% endcomment %}</span></li>
+  <li class="li3"><span class="s4">…</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% assign page_end = paginator.total_pages | minus: 1 %} {% assign pages_to_end = paginator.total_pages | minus: paginator.page %} {% if pages_to_end &gt; 4 %} {% assign page_end = paginator.page | plus: 2 %} {% endif %} {% for index in (page_start..page_end) %} {% if index == paginator.page %}</span></li>
+  <li class="li2"><span class="s2"><a href="file:///Users/conyvidal/Documents/Website/conyvidal/conyvidal.github.io/_includes/%7B%7B%20base_path%20%7D%7D/page%7B%7B%20index%20%7D%7D/"><span class="s3">{{ index }}</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% else %} {% comment %} Distance from current page and this link {% endcomment %} {% assign dist = paginator.page | minus: index %} {% if dist &lt; 0 %} {% comment %} Distance must be a positive value {% endcomment %} {% assign dist = 0 | minus: dist %} {% endif %}</span></li>
+  <li class="li2"><span class="s2"><a href="file:///Users/conyvidal/Documents/Website/conyvidal/conyvidal.github.io/_includes/%7B%7B%20base_path%20%7D%7D/page%7B%7B%20index%20%7D%7D/"><span class="s3">{{ index }}</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% endfor %} {% comment %} Ellipsis for truncated links {% endcomment %} {% if pages_to_end &gt; 3 %}</span></li>
+  <li class="li3"><span class="s4">…</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if paginator.page == paginator.total_pages %}</span></li>
+  <li class="li2"><span class="s2"></span><span class="s3">{{ paginator.page }}</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% else %}</span></li>
+  <li class="li2"><span class="s2"><a href="file:///Users/conyvidal/Documents/Website/conyvidal/conyvidal.github.io/_includes/%7B%7B%20base_path%20%7D%7D/page%7B%7B%20paginator.total_pages%20%7D%7D/"><span class="s3">{{ paginator.total_pages }}</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% comment %} Link next page {% endcomment %} {% if paginator.next_page %}</span></li>
+  <li class="li2"><span class="s2"><a href="file:///Users/conyvidal/Documents/Website/conyvidal/conyvidal.github.io/_includes/%7B%7B%20base_path%20%7D%7D/page%7B%7B%20paginator.next_page%20%7D%7D/"><span class="s3">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% else %}</span></li>
+  <li class="li2"><span class="s2"></span><span class="s3">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %}</span></li>
+</ul>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+</body>
+</html>
