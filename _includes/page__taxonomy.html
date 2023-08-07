@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
@@ -15,3 +16,14 @@
 <p class="p1"><span class="s1">{% include base_path %} {% if site.tag_archive.type and page.tags[0] %} {% include tag-list.html %} {% endif %} {% if site.category_archive.type and page.categories[0] %} {% include category-list.html %} {% endif %}</span></p>
 </body>
 </html>
+=======
+{% include base_path %}
+
+{% if site.tag_archive.type and page.tags[0] %}
+  {% include tag-list.html %}
+{% endif %}
+
+{% if site.category_archive.type and page.categories[0] %}
+  {% include category-list.html %}
+{% endif %}
+>>>>>>> parent of fed8574 (test fix open url separate tab)
