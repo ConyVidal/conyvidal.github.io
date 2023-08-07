@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;script&gt;</span></p>
+<p class="p1"><span class="s1">//open external links in a new window</span></p>
+<p class="p1"><span class="s1">function external_new_window() {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>for(var c = document.getElementsByTagName("a"), a = 0;a &lt; c.length;a++) {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>var b = c[a];</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>if(b.getAttribute("href") &amp;&amp; b.hostname !== location.hostname) {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>b.target = "_blank";</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>b.rel = "noopener";</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">//open PDF links in a new window</span></p>
+<p class="p1"><span class="s1">function pdf_new_window ()</span></p>
+<p class="p1"><span class="s1">{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>if (!document.getElementsByTagName) return false;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>var links = document.getElementsByTagName("a");</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>for (var eleLink=0; eleLink &lt; links.length; eleLink ++) {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>if ((links[eleLink].href.indexOf('.pdf') !== -1)||(links[eleLink].href.indexOf('.doc') !== -1)||(links[eleLink].href.indexOf('.docx') !== -1)) {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>links[eleLink].onclick =</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>function() {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>window.open(this.href);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>return false;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p1"><span class="s1">}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">pdf_new_window();</span></p>
+<p class="p1"><span class="s1">external_new_window();</span></p>
+<p class="p1"><span class="s1">&lt;/script&gt;</span></p>
+</body>
+</html>
