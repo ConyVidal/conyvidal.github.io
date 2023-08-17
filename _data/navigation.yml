@@ -1,10 +1,10 @@
-# main links links
+# main links
 main:
-  - title: "Research"
+  - title: "Research/Publications"
     url: /research/
 
-  - title: "Publications"
-    url: "https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en"
+  #- title: "Publications"
+   # url: "https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en"
 
   - title: "Teaching/Advising"
     url: /teaching/
