@@ -12,7 +12,7 @@ Science and technology innovation is critical to a nation's security, economic p
 I've been exploring these topics through various activities at Harvard and beyond, including as Research Assistant with the [Belfer Center for Science and International Affairs](https://www.belfercenter.org/){:target="_blank"} (Harvard Kennedy School) and as President of the [Science Policy Club](https://projects.iq.harvard.edu/sciencepolicy/home){:target="_blank"} (Harvard Graduate School of Arts and Sciences). I share selected publications below.
 
 
-## Emerging Digital Technologies: Potential, Social Impacts, and Regulation
+## Emerging Technologies: Potential, Social Impacts, and Regulation
 
 ### [Technology Primers for Policymakers: Social Media Recommendation Algorithms](https://www.belfercenter.org/publication/technology-primer-social-media-recommendation-algorithms){:target="_blank"}
 Written as Student Researcher for Harvard Kennedy School's *Belfer Center for Science and International Affairs - Technology and Public Purpose Project*, 2022 ([link](https://www.belfercenter.org/publication/technology-primer-social-media-recommendation-algorithms){:target="_blank"}, [pdf](https://conyvidal.github.io/files/VidalBustamante_SMRA_TAPP_2022.pdf){:target="_blank"})    

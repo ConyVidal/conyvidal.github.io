@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-I have been fortunate to teach, advise, and train several dozen undergraduate students and research assistants. I am passionate about mentoring, and strive to guide my students through complex content and skills while supporting their overall academic and professional development. 
+I have been fortunate to teach, advise, and train several dozen undergraduate students and research assistants. I am passionate about mentoring, and strive to guide students through complex content and skills while supporting their overall academic and professional development. 
 
 **Check out these [Resources for Mentoring Young Investigators](https://sites.google.com/g.harvard.edu/harvardpsychmentoring/){:target="_blank"}, compiled with help from members of the Harvard Psychology department.**           
 
