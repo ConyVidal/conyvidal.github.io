@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching and Advising"
+title: "Mentoring"
 excerpt: "Teaching"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 
 I have been fortunate to teach, advise, and train several dozen undergraduate students and research assistants. I am passionate about mentoring, and strive to guide my students through complex content and skills while supporting their overall academic and professional development. 
 
-**Check out these [Resources for Mentoring Young Investigators](https://sites.google.com/g.harvard.edu/harvardpsychmentoring/){:target="_blank"}, compiled with help from members of the Harvard Psychology department**           
+**Check out these [Resources for Mentoring Young Investigators](https://sites.google.com/g.harvard.edu/harvardpsychmentoring/){:target="_blank"}, compiled with help from members of the Harvard Psychology department.**           
 
 ### Statistics Consultant for Honors Thesis Students in Psychology
 * Fall 2022 - Spring 2023; Harvard University       
