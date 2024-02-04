@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a [Ph.D. candidate](https://conyvidal.github.io/research/){:target="_blank"} at Harvard University (degree expected May 2024). My doctoral research uses digital technologies and large-scale datasets to examine the dynamic impact of real-world stressors on health behaviors and emotional wellbeing.
+I'm a [Ph.D. candidate](https://conyvidal.github.io/research/){:target="_blank"} at Harvard University (defense to be held February 2024). My doctoral research uses digital technologies and large-scale datasets to examine the dynamic impact of real-world stressors on health behaviors and emotional wellbeing.
 
 Alongside my Ph.D., I've worked as a [science and technology policy analyst](https://conyvidal.github.io/policy){:target="_blank"} and written about emerging technologies and the domestic and global factors shaping the United States' S&T strategy for the [Belfer Center for Science and International Affairs](https://www.belfercenter.org/){:target="_blank"}. Additionally, as President of the [Harvard Science Policy Group](https://projects.iq.harvard.edu/sciencepolicy/home){:target="_blank"}, I have partnered with experts to deliver programming on timely policy issues as well as to support career exploration and professional development among young scientists and engineers interested in policy.
 
