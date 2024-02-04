@@ -10,15 +10,15 @@ redirect_from:
 
 As we move through our daily lives, we must face a wide variety of stressors---from physical to social to work-related, each of which can influence our emotions and behavior in dynamic and idiosyncratic ways. The well-established link between stress and diverse pathologies shows that our response to the challenges of daily life can have a substantial impact on our long-term health and wellbeing. Yet so far we have been unable to characterize how the “wear-and-tear” of daily stressors on emotions and behavior unfolds dynamically over days, weeks, and months to subsequently predict clinical outcomes. 
 
-For the first time, advances in mobile computing and the increasing ubiquity of wearable technology are making it possible to capture the multiple dimensions of daily life with precision and nearly continuously. Seizing on this exciting opportunity, I have partnered with engineers, biostatisticians, and clinicians to translate the millions of continuous datapoints afforded by smartphones and wearables into year-long snapshots of an individual’s life. 
+Recent advances in mobile computing and the increasing ubiquity of wearable technology are making it possible to capture the multiple dimensions of daily life with precision and nearly continuously. Seizing on this exciting opportunity, I have partnered with engineers, biostatisticians, and clinicians to translate the millions of continuous datapoints afforded by smartphones and wearables into year-long snapshots of an individual’s life. 
 
 ![Deep Phenotyping](./../images/deep_phenotyping.png)
 
-My doctoral research is leveraging this *deep phenotyping* approach to precisely characterize stress and its effects on various life domains that individuals typically must report retrospectively at the clinician’s office---from mood to sleep patterns to daily activities, as well as how these effects go on to shape individuals’ long-term clinical outcomes. This work promises to not only advance our understanding of the impact of stress on individuals' health, but also to inform much-needed personalized and timely care.
+My doctoral research has leveraged this *deep phenotyping* approach to precisely characterize stress and its effects on various life domains that individuals typically must report retrospectively at the clinician’s office---from mood to sleep patterns to daily activities, as well as how these effects go on to shape individuals’ long-term clinical outcomes. This work promises to not only advance our understanding of the impact of stress on individuals' health, but also to inform much-needed personalized and timely care.
 
 **This innovative methodology is already yielding important insights into how emotions and behavior fluctuate in relation to stress and the possible implications for health and wellbeing**. Below are a few representative journal publications, posters with visual summaries, and general-audience features highlighting this research.
 
-*[For a full list of publications, check my [Google Scholar profile](https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en){:target="_blank"}. You can find my [CV here](https://conyvidal.github.io/files/VidalBustamante_CV_20230806.pdf){:target="_blank"}]*.    
+*[For a full list of publications, check my [Google Scholar profile](https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en){:target="_blank"}.*.    
 
 
 ### [Fluctuations in Behavior and Affect in College Students Measured Using Deep Phenotyping](https://doi.org/10.1038/s41598-022-05331-7){:target="_blank"}

@@ -7,9 +7,9 @@ redirect_from:
   - /teaching.html
 ---
 
-I have been fortunate to teach and advise several dozen undergraduates in psychology and other fields. I am passionate about mentoring, and strive to guide my students through complex content and skills while supporting their overall personal, academic, and professional development. 
+I have been fortunate to teach, advise, and train several dozen undergraduate students and research assistants. I am passionate about mentoring, and strive to guide my students through complex content and skills while supporting their overall academic and professional development. 
 
-*[You can find [Resources for Mentoring Young Investigators](https://sites.google.com/g.harvard.edu/harvardpsychmentoring/){:target="_blank"}, compiled with help from members of the Harvard Psychology department, under the ["Community"](https://conyvidal.github.io/community){:target="_blank"} tab of this website]*           
+**Check out these [Resources for Mentoring Young Investigators](https://sites.google.com/g.harvard.edu/harvardpsychmentoring/){:target="_blank"}, compiled with help from members of the Harvard Psychology department**           
 
 ### Statistics Consultant for Honors Thesis Students in Psychology
 * Fall 2022 - Spring 2023; Harvard University       

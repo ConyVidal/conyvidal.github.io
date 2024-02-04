@@ -1,19 +1,16 @@
 # main links
 main:
-  - title: "Research/Publications"
+  - title: "Policy"
+    url: /policy/
+
+  - title: "Ph.D."
     url: /research/
 
   #- title: "Publications"
    # url: "https://scholar.google.com/citations?user=XdY5EBgAAAAJ&hl=en"
 
-  - title: "Teaching/Advising"
+  - title: "Mentoring"
     url: /teaching/
 
-  - title: "Policy"
-    url: /policy/
-
-  - title: "Community"
-    url: /community/
-
-  - title: "CV"
-    url: "https://conyvidal.github.io/files/VidalBustamante_CV_20230806.pdf"
+  - title: "Resume"
+    url: "https://conyvidal.github.io/files/ConstanzaVidal_resume_2024.pdf"
