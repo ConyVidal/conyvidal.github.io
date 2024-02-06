@@ -7,9 +7,11 @@ redirect_from:
   - /policy.html
 ---
 
-Science and technology innovation is critical to a nation's security, economic prosperity, and quality of life. My personal interest in science and technology policy is twofold. Most directly relevant to my Ph.D. research, I'm interested in understanding how emerging technologies can be leveraged to enhance the wellbeing of individuals and communities while avoiding negative impacts. At a broader level, I'm interested in understanding how science and technology ecosystems (across government, academia, and industry) can be strategically organized to spur cross-sectoral innovation in service of national goals.
+Science and technology innovation is critical to a nation's security, economic prosperity, and quality of life. My interest in science and technology policy is twofold. Most directly relevant to my Ph.D. research, I'm interested in understanding how emerging technologies can be leveraged to enhance the wellbeing of individuals and communities while avoiding negative impacts. At a broader level, I'm interested in understanding how science and technology ecosystems (across government, academia, and industry) can be strategically organized to spur cross-sectoral innovation in service of national goals.
 
-I've been exploring these topics through various activities at Harvard and beyond, including as Research Assistant with the [Belfer Center for Science and International Affairs](https://www.belfercenter.org/){:target="_blank"} (Harvard Kennedy School) and as President of the [Science Policy Club](https://projects.iq.harvard.edu/sciencepolicy/home){:target="_blank"} (Harvard Graduate School of Arts and Sciences). I share selected publications below.
+I've been exploring these topics through various research projects and activities at Harvard and beyond, including as Researcher with the [Belfer Center for Science and International Affairs](https://www.belfercenter.org/){:target="_blank"} (Harvard Kennedy School) and as President of the [Science Policy Club](https://projects.iq.harvard.edu/sciencepolicy/home){:target="_blank"} (Harvard Graduate School of Arts and Sciences). I share selected publications below.
+
+Additionally, I was recently selected as a [2024 Mirzayan Science and Technology Policy Fellow](https://mirzayanfellow.nas.edu/){:target="_blank"} with the National Academies of Sciences, Engineering, and Technology in Washington, D.C., where I will support the organization of cross-sectoral initiatives examining how emerging technologies can enhance health research and care, as well as how policymaking can further advance S&T innovation.
 
 
 ## Emerging Technologies: Potential, Social Impacts, and Regulation
