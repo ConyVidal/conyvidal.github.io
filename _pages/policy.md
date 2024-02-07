@@ -17,9 +17,9 @@ I was recently selected as a [2024 Mirzayan Science and Technology Policy Fellow
 ## National Science and Technology Innovation Strategy
 
 ### [Unraveling the Political Dynamics Shaping the U.S. Strategy for Technology Leadership](){:target="_blank"}
-*[IN PRESS]*, *Belfer Center for Science and International Affairs*, 2024 ([link](){:target="_blank"}, [pdf](https://conyvidal.github.io/files/){:target="_blank"})    
+*[IN PRESS, LINKS FORTHCOMING]*, *Belfer Center for Science and International Affairs*, 2024 ([link](){:target="_blank"}, [pdf](https://conyvidal.github.io/files/){:target="_blank"})    
 
-Recent legislation like the CHIPS and Science Act has demonstrated broad bipartisan support for enhancing the United States’ leadership in advanced technologies. But will these efforts continue? And will they succeed?
+Recent legislation like the CHIPS and Science Act has demonstrated broad bipartisan support for enhancing the United States’ leadership in advanced technologies such as semiconductors and AI. But will these efforts continue? And will they succeed?
 
 We contend that persistent tensions between and within parties will continue to condition the success of the US technology leadership strategy for the foreseeable future. These include disagreements about:
 
