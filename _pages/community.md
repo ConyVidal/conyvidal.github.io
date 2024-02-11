@@ -1,7 +1,6 @@
 ---
 permalink: /community/
 title: "Community Resources"
-excerpt: "Community"
 author_profile: true
 redirect_from: 
   - /community.html
