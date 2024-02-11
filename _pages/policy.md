@@ -1,7 +1,6 @@
 ---
 permalink: /policy/
 title: "Science & Technology Policy Research and Leadership"
-excerpt: "Policy"
 author_profile: true
 redirect_from: 
   - /policy.html
