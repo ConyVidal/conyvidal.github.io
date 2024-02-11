@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/
 title: "Mentoring"
-excerpt: "Teaching"
 author_profile: true
 redirect_from: 
   - /teaching.html

@@ -1,7 +1,6 @@
 ---
 permalink: /research/
 title: "Harnessing digital technology to uncover the dynamic effects of stress on emotions, behavior, and health"
-excerpt: "Research"
 author_profile: true
 redirect_from: 
   - /research.html
