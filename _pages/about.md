@@ -15,4 +15,4 @@ My understanding of emerging technologies and their policy implications has been
 
 During my time at Harvard, I have also served as President of the [Harvard Science Policy Group](https://projects.iq.harvard.edu/sciencepolicy/home){:target="_blank"}, partnering with experts to deliver programming on timely policy issues and to support the professional development of young scientists and engineers interested in policy.
 
-I hold Doctoral, Master’s, Bachelor’s degrees in psychology and cognitive neuroscience from Harvard University. 
+I hold Doctoral, Master’s, and Bachelor’s degrees in psychology and cognitive neuroscience from Harvard University. 
